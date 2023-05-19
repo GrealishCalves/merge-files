@@ -1,6 +1,6 @@
 {
   "name": "merge-filer",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/src/index.js",
   "scripts": {
