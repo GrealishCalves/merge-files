@@ -2,7 +2,7 @@
   "name": "merge-files-develop",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/src/index.js",
   "scripts": {
     "link": "sudo npm link ./lib",
     "version:patch": "npm version patch",
@@ -20,5 +20,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/GrealishCalves/merge-files.git"
-  }
+  },
+  "files": [
+    "lib/"
+  ]
 }
