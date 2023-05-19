@@ -1,5 +1,5 @@
 {
-  "name": "merge-files-develop",
+  "name": "merge-files",
   "version": "1.0.2",
   "description": "",
   "main": "lib/src/index.js",
@@ -22,6 +22,6 @@
     "url": "https://github.com/GrealishCalves/merge-files.git"
   },
   "files": [
-    "lib/"
+    "lib/src/"
   ]
 }
