@@ -12,7 +12,7 @@
     "publishPackage": "npm publish && git push --follow-tags"
   },
   "keywords": [],
-  "author": "",
+  "author": "GrealishCalves",
   "license": "ISC",
   "dependencies": {
     "commander": "^10.0.1"
